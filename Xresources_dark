@@ -1,0 +1,7 @@
+! Isotope dark theme for Rofi {{{
+rofi.color-enabled: true
+rofi.color-window: #263238, {{primary}}, {{primary}}
+rofi.color-normal: #263238, #ECEFF1, #37474F, #263238, {{primary}}
+rofi.color-active: #263238, #ECEFF1, #37474F, #263238, {{primary}}
+rofi.color-urgent: #263238, #ECEFF1, #37474F, #263238, {{primary}}
+! }}}
